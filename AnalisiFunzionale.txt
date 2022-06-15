@@ -1,0 +1,12 @@
+Pistoni 
+Pagina gestione postazioni spiaggia (Maschera3).
+Gestione postazioni spiaggia, "Nome Lido" e "MappaSpiaggia"
+(contenente il numero e la disposizione delle postazioni) sono filtrati
+in base al lido selezionato nella pagina precedente. Presenta una serie di 
+pulsanti cliccabili e dinamici, che rappresentano la postazione, i quali
+cambiano colore in base alla eventuale disponibilità (bianco se disponibile,
+altrimenti rosso) selezionabile solamente se disponibile
+(valore "occupato"=false). Se selezionato permette di aggiungere le date
+in cui è occupato. Se non selezionato almeno un giorno non permette di
+procedere nella schermata successiva (il tasto avanti non risulta cliccabile).
+
