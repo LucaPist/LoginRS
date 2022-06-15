@@ -1,4 +1,11 @@
 Morandi
+Pagina di Login
+La pagina di Login è composta da un piccolo logo nel lato alto sinistro della pagina.
+Poi è presente un riquadro contenete due textbox con a sinistra di essere un layer che pecifica cosa vada inserito
+all'interno del box, nel riquadro sono presenti al di sotto delle due box, due pulsanti: il primo si occupata della registrazione
+di un nuovo utente (ovvero cliccando su di essere ci si potrà registrare alla piattaforma), il secondo invece permette (dopo aver inserito
+i dati di accesso) di accedere alla piattaforma per prenotare una postazione in spiaggia. 
+
 Pagina DataELocalità.
 La pagina DataeLocalità è composta da 1 immagine sul lato sinistro della finestra che rappresenta il logo balneare,
 il lato destro della finestra è composto da una listbox che permette la scelta della località balneare dove si vuole soggiornare, 
