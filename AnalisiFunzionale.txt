@@ -1,3 +1,10 @@
+Morandi
+Pagina DataELocalità.
+La pagina DataeLocalità è composta da 1 immagine sul lato sinistro della finestra che rappresenta il logo balneare,
+il lato destro della finestra è composto da una listbox che permette la scelta della località balneare dove si vuole soggiornare, 
+successivamente al di sotto di essa ci sono due databox, la prima riguardante la data di arrivo alla località e la seconda,
+invece, l'ultima data di occupazione del posto spiaggia della località.
+
 Pistoni 
 Pagina gestione postazioni spiaggia (Maschera3).
 Gestione postazioni spiaggia, "Nome Lido" e "MappaSpiaggia"
@@ -13,6 +20,7 @@ procedere nella schermata successiva (il tasto avanti non risulta cliccabile).
 Ferrari 
 Servizi Disponibili :
 In base al lido scelto, nel riquadro dei servizi cambia il prezzo 
+
 
 Riepilogo ordine : 
 Viene mostrato il riepilogo dell’ordine in una tabelle , le policy di cancellazione e vengono mostrati 2 bottoni (Indietro e Conferma) 
