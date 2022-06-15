@@ -10,3 +10,11 @@ altrimenti rosso) selezionabile solamente se disponibile
 in cui è occupato. Se non selezionato almeno un giorno non permette di
 procedere nella schermata successiva (il tasto avanti non risulta cliccabile).
 
+Ferrari 
+Servizi Disponibili :
+In base al lido scelto, nel riquadro dei servizi cambia il prezzo 
+
+Riepilogo ordine : 
+Viene mostrato il riepilogo dell’ordine in una tabelle , le policy di cancellazione e vengono mostrati 2 bottoni (Indietro e Conferma) 
+Con il tasto Indietro si torna nelle pagine precedenti ; 
+con il tasto Conferma , viene confermato l’ordine e si può pagare 
